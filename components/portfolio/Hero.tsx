@@ -37,24 +37,7 @@ export default function Hero() {
               </a>
             </div>
 
-            <div className="flex items-center gap-4 pt-4">
-              <a
-                href="https://www.linkedin.com/in/esraa-a-43a460136"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="p-2 text-neutral-800 hover:text-(--brand) transition-colors"
-                aria-label="LinkedIn"
-              >
-                <Linkedin size={24} />
-              </a>
-              <a
-                href="mailto:esraa.hus93@gmail.com"
-                className="p-2 text-neutral-800 hover:text-(--brand) transition-colors"
-                aria-label="Email"
-              >
-                <Mail size={24} />
-              </a>
-            </div>
+  
           </div>
 
           <div className="relative hidden md:block">
