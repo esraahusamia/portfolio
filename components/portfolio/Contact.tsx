@@ -53,17 +53,7 @@ export default function Contact() {
           </a>
         </div>
 
-        <div className="flex justify-center items-center gap-6 pt-8 border-t border-neutral-800">
-          <a
-            href="https://www.linkedin.com/in/esraa-a-43a460136"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="p-3 text-neutral-200 hover:text-(--brand) transition-colors"
-            aria-label="LinkedIn"
-          >
-            <Linkedin size={24} />
-          </a>
-        </div>
+       
       </div>
     </section>
   );
